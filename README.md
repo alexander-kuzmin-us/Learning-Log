@@ -14,4 +14,4 @@ Users should be able to register and log in, to be able to use the app.
 
 Registered users should be able to create new topics,  and add new entries.
 
-Registered users should be able to read and edit existing entries.
+Registered users should be able to read and edit existing entries..
