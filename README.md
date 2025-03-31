@@ -1,4 +1,4 @@
-# Learning Log: Track Your Learning Journey.
+# Learning Log: Track Your Learning Journey with confidence!
 
 A robust web application built with Django that helps you track and organize your learning progress. Keep a record of topics you're interested in and maintain detailed journal entries as you learn about each subject.
 
